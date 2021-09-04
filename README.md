@@ -1,2 +1,2 @@
 # Hadamard-m2
-This the package for computing the Hadamard products of varieties
+This package computes the Hadamard products of varieties
